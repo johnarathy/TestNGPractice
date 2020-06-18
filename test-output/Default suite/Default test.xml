@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="BLTSL00991" name="tesngbasics.ExceptionTimeoutTest" tests="1" failures="0" timestamp="17 May 2020 08:05:16 GMT" time="0.035" errors="0">
+  <testcase name="exceptionTest" time="0.014" classname="tesngbasics.ExceptionTimeoutTest"/>
+</testsuite>
